@@ -1,0 +1,18 @@
+1677510009183	geckodriver	INFO	Listening on 127.0.0.1:65224
+1677510011880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\144763\\AppData\\Local\\Temp\\rust_mozprofileb6vzhm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677510014915	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677510014934	Marionette	INFO	Listening on port 65248
+Read port: 65248
+WebDriver BiDi listening on ws://127.0.0.1:65225
+1677510015374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\144763\\AppData\\Local\\Temp\\rust_mozprofileb6vzhm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65225/devtools/browser/6e3ec32b-7995-4d77-82fe-138bd8ea9ba7
+JavaScript warning: https://pmmi.dragonforms.com/js/olyticsLinkAssistance.js, line 88: unreachable code after return statement
+JavaScript warning: https://pmmi.dragonforms.com/js/olyticsLinkAssistance.js, line 88: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 27 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
